@@ -1,16 +1,19 @@
-## Hi there 👋
+<hr/>
 
-<!--
-**Jaxydog/Jaxydog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my corner!
 
-Here are some ideas to get you started:
+I'm Jaxydog, or just Jaxy for short.<br/>
+I go by [any pronouns](https://en.pronouns.page/@Jaxydog), so just use what feels right to you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do I do?
+
+I usually work on mods for Minecraft, Discord bots, and random CLI tools, among other various things.<br/>
+After meandering through various fields, I've found that I tend to most enjoy both game programming *and* systems programming.<br/>
+If you're interested in what I'm working on, feel free to look through my repositories.
+
+Outside computer science, I also occasionally ~~fail to~~ make art and music.
+
+<hr/>
+
+[![Jaxydog's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxydog&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Jaxydog's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxydog&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
