@@ -14,6 +14,3 @@ If you're interested in what I'm working on, feel free to look through my reposi
 Outside computer science, I also occasionally ~~fail to~~ make art and music.
 
 <hr/>
-
-[![Jaxydog's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxydog&layout=compact&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Jaxydog's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxydog&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
