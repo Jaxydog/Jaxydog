@@ -7,7 +7,7 @@ I go by [any pronouns](https://en.pronouns.page/@Jaxydog), so just use what feel
 
 ## What do I do?
 
-I usually work on mods for Minecraft, Discord bots, and random CLI tools, among other various things.<br/>
+I usually work on mods for Minecraft, Discord bots, and random CLI tools, among other miscellaneous things.<br/>
 After meandering through various fields, I've found that I tend to most enjoy both game programming *and* systems programming.<br/>
 If you're interested in what I'm working on, feel free to look through my repositories.
 
