@@ -3,7 +3,7 @@
 ## Welcome to my corner!
 
 I'm Jaxydog, or just Jaxy for short.<br/>
-I go by [any pronouns](https://en.pronouns.page/@Jaxydog), so just use what feels right to you.
+I go by [any pronouns](https://en.pronouns.page/@Jaxydog) (with slight preference for she/they), but just use what feels right to you.
 
 ## What do I do?
 
