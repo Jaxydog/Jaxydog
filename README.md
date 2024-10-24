@@ -11,6 +11,6 @@ I usually work on mods for Minecraft, Discord bots, and random CLI tools, among 
 After meandering through various fields, I've found that I tend to most enjoy both game programming *and* systems programming.<br/>
 If you're interested in what I'm working on, feel free to look through my repositories.
 
-Outside computer science, I also occasionally ~~fail to~~ make art and music.
+Outside of computer science, I also occasionally ~~fail to~~ make art and music.
 
 <hr/>
